@@ -87,11 +87,11 @@ El sistema integra múltiples tecnologías para validar información, analizar p
 ## 🧪 Instalación
 # Clonar repositorio
 ```
-git clone https://github.com/tu-usuario/sistema-antifraude.git
+git clone https://github.com/isairey/SisAntiFraudeElectoral.git
 ```
 # Entrar al proyecto
 ```
-cd sistema-antifraude
+cd SisAntiFraudeElectoral
 ```
 # Configurar servidor PHP
 # (XAMPP, Laragon o servidor local)
